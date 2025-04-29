@@ -1,6 +1,9 @@
 # 🍽️ Recipe & Meal Planning App
 
 A community-based web app that lets users explore, share, and plan meals with ease. Built using Angular and Firebase, this app combines recipe discovery, social interaction, and meal organization in one place.
+## 🛠️ Code
+
+https://github.com/GigiMW/recipe-webApp2
 
 ## 🚀 Features
 
