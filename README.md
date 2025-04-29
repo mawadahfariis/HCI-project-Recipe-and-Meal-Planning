@@ -41,4 +41,11 @@ A community-based web app that lets users explore, share, and plan meals with ea
 4. **Meal Planner** – Weekly planning tool
 5. **Saved Recipes** – User favorites
 
+## project
+https://github.com/GigiMW/recipe-webApp2
+
+![p](project.jpg)
+![project](board.JPG)
+![email](mail.jpeg)
+
 
