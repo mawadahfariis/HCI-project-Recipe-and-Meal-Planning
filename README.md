@@ -32,7 +32,6 @@ A community-based web app that lets users explore, share, and plan meals with ea
 - **Forms & Validation:** Reactive Forms
 - **Prototyping:** Figma (or Axure RP)
 - **Routing:** Angular Router
-- **State Management:** RxJS Subjects & Observables
 
 ## 📦 Pages
 
@@ -42,17 +41,4 @@ A community-based web app that lets users explore, share, and plan meals with ea
 4. **Meal Planner** – Weekly planning tool
 5. **Saved Recipes** – User favorites
 
-## 🧩 Architecture
 
-- Modular folder structure (components, services, models)
-- Dependency Injection using Angular services
-- Centralized API service for all HTTP operations
-- Reusable components for UI consistency
-
-## ✅ Installation
-
-```bash
-git clone https://github.com/yourusername/recipe-meal-planner.git
-cd recipe-meal-planner
-npm install
-ng serve
