@@ -35,17 +35,23 @@ A community-based web app that lets users explore, share, and plan meals with ea
 
 ## 📦 Pages
 
-1. **Home Feed** – Recipe discovery
-2. **Recipe Detail** – Full view of ingredients, steps, and nutrition
-3. **Profile Page** – User's recipes, followers/following
-4. **Meal Planner** – Weekly planning tool
-5. **Saved Recipes** – User favorites
+1. **Login and register**
+   ![p](1.jpg)
+2. **Home Feed** – Recipe discovery
+   ![p](2.jpg)
+3. **Recipe Detail** – Full view of ingredients, steps, and nutrition
+4. **Profile Page** – User's recipes, followers/following
+   ![p](4.jpg)
+5. **Meal Planner** – Weekly planning tool
+   ![p](5.jpg)
+   ![p](6.jpg)
+6. **Saved Recipes** – User favorites
+7. **Shopping list** – shopping list of saved resipe ingrediants
+      ![p](8.jpg)
+8. **user to follow**
+   ![p](3.jpg)
 
-## project
-https://github.com/GigiMW/recipe-webApp2
 
-![p](project.jpg)
-![project](board.JPG)
-![email](mail.jpeg)
+
 
 
