@@ -36,20 +36,20 @@ A community-based web app that lets users explore, share, and plan meals with ea
 ## 📦 Pages
 
 1. **Login and register**
-   ![p](1.jpg)
+   ![p](1.JPG)
 2. **Home Feed** – Recipe discovery
-   ![p](2.jpg)
+   ![p](2.JPG)
 3. **Recipe Detail** – Full view of ingredients, steps, and nutrition
 4. **Profile Page** – User's recipes, followers/following
-   ![p](4.jpg)
+   ![p](4.JPG)
 5. **Meal Planner** – Weekly planning tool
-   ![p](5.jpg)
-   ![p](6.jpg)
+   ![p](5.JPG)
+   ![p](6.JPG)
 6. **Saved Recipes** – User favorites
 7. **Shopping list** – shopping list of saved resipe ingrediants
-      ![p](8.jpg)
+    ![p](8.JPG)
 8. **user to follow**
-   ![p](3.jpg)
+   ![p](3.JPG)
 
 
 
